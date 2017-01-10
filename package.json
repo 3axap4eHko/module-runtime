@@ -1,0 +1,9 @@
+{
+  "name": "module-runtime",
+  "version": "0.0.1",
+  "description": "Tiny library to create runtime node modules",
+  "main": "index.js",
+  "repository": "https://github.com/3axap4eHko/module-runtime.git",
+  "author": "Ivan Zakharchenko <3axap4eHko@gmail.com>",
+  "license": "MIT"
+}
